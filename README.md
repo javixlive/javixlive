@@ -1,7 +1,4 @@
-### Heya! 👋
-
-<!--
-# **Hello, I'm [Javier Montaño](https://www.linkedin.com/in/javiermrod/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Heya! 👋, I'm [Javier Montaño](https://www.linkedin.com/in/javiermrod/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 ## 💫 About Me:
 Engineer with a Bachelor’s degree in Mechatronics & Front End Developer experienced in Javascript, NodeJS, React,  C++. I love to automate all kinds of processes to make life easier.
@@ -20,9 +17,6 @@ Engineer with a Bachelor’s degree in Mechatronics & Front End Developer experi
     </a>
      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
     </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
@@ -67,3 +61,19 @@ Engineer with a Bachelor’s degree in Mechatronics & Front End Developer experi
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me
+
+<p>
+    <a href="javixlive@proton.me">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      javixlive@proton.me
+    </a>    
+    <br/>
+    <a href="https://www.linkedin.com/in/javiermrod/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Javier Montaño
+    </a>
+<p/>
+
+<footer align='center'>Thanks for visiting!</footer>
