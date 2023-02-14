@@ -1,7 +1,7 @@
-### Hi there 👋
+### Heya! 👋
 
 <!--
-**javixlive/javixlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hello, I'm [Javier Montaño](https://www.linkedin.com/in/javiermrod/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 Here are some ideas to get you started:
 
