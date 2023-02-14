@@ -1,7 +1,8 @@
-# **Heya! 👋, I'm [Javier Montaño](https://www.linkedin.com/in/javiermrod/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Heya!, I'm [Javier Montaño](https://www.linkedin.com/in/javiermrod/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 ## 💫 About Me:
 Engineer with a Bachelor’s degree in Mechatronics & Front End Developer experienced in Javascript, NodeJS, React,  C++. I love to automate all kinds of processes to make life easier.
+When not working I love reading books and listening to music. 
 
 ## 💻 Tech Stack:
 
@@ -75,5 +76,7 @@ Engineer with a Bachelor’s degree in Mechatronics & Front End Developer experi
       Javier Montaño
     </a>
 <p/>
+
+![gopher dancing](./dancing-gopher.gif)
 
 <footer align='center'>Thanks for visiting!</footer>
